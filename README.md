@@ -11,15 +11,19 @@ A calculadora tem uma interface simples e fácil de usar, permitindo que o usuá
 Material-ui
 Sass css
 ```
+## Instalação ##
+>Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
 
-## 1 - Clonando o repositório: 
+</br>
+
+### 1 - Clonando o repositório: ###
 > para clonar o repositório em sua máquina use o seguinte comando:
 ```
 [git clone https://github.com/moisesgui/CRC-chartTabs.git](https://github.com/moisesgui/calculator.git)
 ```
 </br>
 
-2 - Abra o terminal no diretório do projeto e instale as dependências: 📦
+### 2 - Abra o terminal no diretório do projeto e instale as dependências: 📦 ###
 
 ```
 npm install
@@ -29,7 +33,7 @@ yarn install
 ```
 </br>
 
-## 3- Rode o projeto localmente, execute um dos comandos abaixo:
+### 3- Rode o projeto localmente, execute um dos comandos abaixo: ###
 ```
 npm run start
 ou
