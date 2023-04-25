@@ -40,7 +40,8 @@ npm run start
 ou
 yarn start
 ```
-> Isso iniciará o aplicativo em modo de desenvolvimento. Abra http://localhost:3000 para visualizá-lo em seu navegador.
+> Isso iniciará o aplicativo em modo de desenvolvimento. 
+> Abra http://localhost:3000 para visualizá-lo em seu navegador.
 > 
 ## Contact
 
