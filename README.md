@@ -4,7 +4,7 @@ O projeto de calculadora é uma aplicação web desenvolvida com a biblioteca Re
 Ele permite que o usuário realize operações básicas de matemática, incluindo adição, subtração, multiplicação e divisão. 
 A calculadora tem uma interface simples e fácil de usar, permitindo que o usuário digite números e execute operações com apenas alguns cliques.
 
-#### Bibliotecas usadas no projeto: ⚙️
+### Bibliotecas usadas no projeto: ⚙️
 ```
 Sass
 Material Ui
@@ -22,16 +22,14 @@ Instale as dependências usando o comando npm install
 
 ```
 npm install 
-yarn install
 ```
 
-Copy code
-npm install
-Execute o projeto:
+### Execute o proejto:
 
-sql
-Copy code
+> Na pasta do projeto, execute o seguinte comando:
+```
 npm start
+```
 Isso iniciará o aplicativo em modo de desenvolvimento. Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
 Uso
