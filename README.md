@@ -16,14 +16,14 @@ Sass css
 
 </br>
 
-### 1 - Clonando o repositório: ###
-> para clonar o repositório em sua máquina use o seguinte comando:
+1 - Clone o repositório:
+
 ```
 [git clone https://github.com/moisesgui/CRC-chartTabs.git](https://github.com/moisesgui/calculator.git)
 ```
 </br>
 
-### 2 - Abra o terminal no diretório do projeto e instale as dependências: 📦 ###
+2 - Abra o terminal no diretório do projeto e instale as dependências: 📦
 
 ```
 npm install
@@ -33,7 +33,8 @@ yarn install
 ```
 </br>
 
-### 3- Rode o projeto localmente, execute um dos comandos abaixo: ###
+3- Rode o projeto localmente, execute um dos comandos abaixo:
+
 ```
 npm run start
 ou
