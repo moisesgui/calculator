@@ -4,6 +4,9 @@ O projeto de calculadora é uma aplicação web desenvolvida em javascript com R
 Ele permite que o usuário realize operações básicas de matemática, incluindo adição, subtração, multiplicação e divisão. 
 A calculadora tem uma interface simples e fácil de usar, permitindo que o usuário digite números e execute operações com apenas alguns cliques.
 
+```
+:link: Acesse o projeto pelo link: https://calculator-woad-ten.vercel.app/
+```
 
 ### Dependencias instaladas no projeto: ⚙️
 
