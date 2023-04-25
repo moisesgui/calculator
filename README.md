@@ -12,16 +12,10 @@ Material Ui
 
 ### Instalação ###
 
-#### Clone este repositório em sua máquina local:
+> Clone este repositório em sua máquina local:
 ```
 git clone [https://github.com/seu-usuario/calculadora-react.git](https://github.com/moisesgui/calculator.git)
-Instale as dependências usando o comando npm install
-```
-
-#### Instale as dependencias usando os comandos abaixo:
-
-```
-npm install 
+entre na pasta do projeto e instale as dependências usando o comando npm install
 ```
 
 ### Execute o proejto:
