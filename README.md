@@ -4,9 +4,9 @@ O projeto de calculadora é uma aplicação web desenvolvida com a biblioteca Re
 Ele permite que o usuário realize operações básicas de matemática, incluindo adição, subtração, multiplicação e divisão. 
 A calculadora tem uma interface simples e fácil de usar, permitindo que o usuário digite números e execute operações com apenas alguns cliques.
 
-#### ⚙️ Bibliotecas usadas no projeto:
+#### Bibliotecas usadas no projeto: ⚙️
 ```
-Sass css
+Sass
 Material Ui
 ```
 
@@ -14,12 +14,18 @@ Material Ui
 
 Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
 
-Clone este repositório em sua máquina local:
+#### Clone este repositório em sua máquina local:
 ```
 git clone [https://github.com/seu-usuario/calculadora-react.git](https://github.com/moisesgui/calculator.git)
 Instale as dependências usando o comando npm install
 ```
 
+#### Instale as dependencias usando os comandos abaixo:
+
+```
+npm install 
+yarn install
+```
 
 Copy code
 npm install
