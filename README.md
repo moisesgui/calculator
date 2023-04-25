@@ -43,7 +43,8 @@ yarn start
 > Isso iniciará o aplicativo em modo de desenvolvimento. </br> Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
 </br>
-### Contato:
+
+### Contato: ###
 
 👤  Moisés Guilherme de Oliveira
 
