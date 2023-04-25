@@ -3,7 +3,7 @@ import "./App.scss";
 const App = () => {
   return (
     <div className="container">
-      <h1>ola mundo</h1>
+      <h4>ola mundo</h4>
     </div>
   );
 };
