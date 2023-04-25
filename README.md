@@ -4,10 +4,9 @@ Este é um projeto de calculadora criado com React, Sass e Material UI.
 
 #### Instalação ####
 
-> Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
+Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
 
-Clone este repositório em sua máquina local:
-Some basic Git commands are:
+> Clone este repositório em sua máquina local:
 ```
 git clone [https://github.com/seu-usuario/calculadora-react.git](https://github.com/moisesgui/calculator.git)
 Instale as dependências usando o comando npm install
