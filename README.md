@@ -4,36 +4,43 @@ O projeto de calculadora é uma aplicação web desenvolvida com a biblioteca Re
 Ele permite que o usuário realize operações básicas de matemática, incluindo adição, subtração, multiplicação e divisão. 
 A calculadora tem uma interface simples e fácil de usar, permitindo que o usuário digite números e execute operações com apenas alguns cliques.
 
-### Bibliotecas usadas no projeto: ⚙️
-```
-Sass
-Material Ui
-```
 
-### Instalação ###
+###⚙️ Dependencias instaladas no projeto: 
 
-> Clone este repositório em sua máquina local:
 ```
-git clone [https://github.com/seu-usuario/calculadora-react.git](https://github.com/moisesgui/calculator.git)
-entre na pasta do projeto e instale as dependências usando o comando npm install
+Material-ui
+Sass css
 ```
 
-### Execute o proejto:
-
-> Na pasta do projeto, execute o seguinte comando:
+## 1 - Clonando o repositório: 
+> para clonar o repositório em sua máquina use o seguinte comando:
 ```
-npm start
+[git clone https://github.com/moisesgui/CRC-chartTabs.git](https://github.com/moisesgui/calculator.git)
 ```
-Isso iniciará o aplicativo em modo de desenvolvimento. Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
-Uso
-Esta calculadora tem as operações básicas de soma, subtração, multiplicação e divisão. Para usá-la, basta digitar os números e clicar nos botões de operação para realizar os cálculos.
+📦 2 - Abra o terminal no diretório do projeto e instale as dependências:
 
-Contribuição
-Este projeto foi criado apenas para fins de aprendizado e não aceita contribuições. Sinta-se à vontade para usar o código como referência para seus próprios projetos.
+```
+npm install
+ou
+yarn install
 
-Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+```
 
-Autor
-Feito por seu nome.
+## 3- Rode o projeto localmente, execute um dos comandos abaixo:
+```
+npm run start
+ou
+yarn start
+```
+> Isso iniciará o aplicativo em modo de desenvolvimento. Abra http://localhost:3000 para visualizá-lo em seu navegador.
+> 
+## Contact
+
+👤  Moisés Guilherme de Oliveira
+
+:e-mail:  mgoliveira.dev@gmail.com
+
+:octocat:  https://guithub.com/moisesgui
+
+:bowtie:  https://www.linkedin.com/in/moisesguilherme
