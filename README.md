@@ -10,9 +10,7 @@ Sass
 Material Ui
 ```
 
-#### Instalação ####
-
-Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
+### Instalação ###
 
 #### Clone este repositório em sua máquina local:
 ```
