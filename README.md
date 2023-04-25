@@ -5,7 +5,7 @@ Ele permite que o usuário realize operações básicas de matemática, incluind
 A calculadora tem uma interface simples e fácil de usar, permitindo que o usuário digite números e execute operações com apenas alguns cliques.
 
 
-###⚙️ Dependencias instaladas no projeto: 
+### Dependencias instaladas no projeto: ⚙️
 
 ```
 Material-ui
@@ -17,8 +17,9 @@ Sass css
 ```
 [git clone https://github.com/moisesgui/CRC-chartTabs.git](https://github.com/moisesgui/calculator.git)
 ```
+</br>
 
-📦 2 - Abra o terminal no diretório do projeto e instale as dependências:
+2 - Abra o terminal no diretório do projeto e instale as dependências: 📦
 
 ```
 npm install
@@ -26,6 +27,7 @@ ou
 yarn install
 
 ```
+</br>
 
 ## 3- Rode o projeto localmente, execute um dos comandos abaixo:
 ```
