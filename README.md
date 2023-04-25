@@ -3,7 +3,8 @@
 Este é um projeto de calculadora criado com React, Sass e Material UI.
 
 #### Instalação ####
-Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
+
+>>> Para instalar e executar o projeto em sua máquina local, siga as instruções abaixo:
 
 Clone este repositório em sua máquina local:
 
