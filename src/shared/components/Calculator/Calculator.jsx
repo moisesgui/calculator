@@ -40,6 +40,10 @@ export const Calculator = () => {
     setNumber(0);
   }
 
+  function formatNumber(num) {
+    return num.toLocaleString("pt-BR");
+  }
+
   function calculate() {
     const oldNum = parseFloat(oldNumber);
     const num = parseFloat(number);
@@ -53,17 +57,17 @@ export const Calculator = () => {
         if (num === 0) {
           return;
         } else {
-          setNumber(oldNum / num);
+          setNumber(formatNumber(oldNum / num));
         }
         break;
       case "X":
-        setNumber(oldNum * num);
+        setNumber(formatNumber(oldNum * num));
         break;
       case "-":
-        setNumber(oldNum - num);
+        setNumber(formatNumber(oldNum - num));
         break;
       case "+":
-        setNumber(oldNum + num);
+        setNumber(formatNumber(oldNum + num));
         break;
       default:
         break;
