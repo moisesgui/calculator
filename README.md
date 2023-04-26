@@ -20,7 +20,7 @@ Sass css
 1 - Clone o repositório:
 
 ```
-[git clone https://github.com/moisesgui/CRC-chartTabs.git](https://github.com/moisesgui/calculator.git)
+[git clone https://github.com/moisesgui/calculator.git]
 ```
 </br>
 
