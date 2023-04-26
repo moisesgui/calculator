@@ -34,10 +34,10 @@ yarn install
 ```
 </br>
 
-3- Rode o projeto localmente, execute um dos comandos abaixo:
+3- Rode o projeto localmente, executando um dos comandos abaixo:
 
 ```
-npm run start
+npm start
 ou
 yarn start
 ```
